@@ -1,9 +1,0 @@
-{
-    "root": "build/",
-    "routes": {
-        "/**": "index.html"
-    },
-    "proxies": {
-        "/api": "https://warbler-server-eldon.herokuapp.com/"
-    }
-}
